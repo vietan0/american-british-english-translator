@@ -67,6 +67,7 @@ class Translator {
     );
 
     const strArr = str.split(' ');
+    console.log(translated);
     translated = translated
       .join(' ')
       .replaceAll('  ', ' ')
@@ -134,6 +135,7 @@ class Translator {
     );
 
     const strArr = str.split(' ');
+    console.log(translated);
     translated = translated
       .join(' ')
       .replaceAll('  ', ' ')
