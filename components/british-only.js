@@ -157,7 +157,7 @@ module.exports = {
   "pants": "underwear",
   "panda car": "police car",
   "paper round": "paper route",
-  "paracetamol": "Tylenol",
+  "Paracetamol": "Tylenol",
   "pernickety": "persnickety",
   "petrol": "gasoline",
   "petrolhead": "gearhead",
